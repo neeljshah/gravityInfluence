@@ -12,7 +12,10 @@
 > *Interactive Power BI dashboard — filter by Player, Team, and Matchup to explore gravity and elasticity across the league.*
 
 
-https://github.com/user-attachments/assets/5caaf85e-7347-4808-9dfa-b70997a43c04
+
+https://github.com/user-attachments/assets/9b27da50-1caf-4ba6-a75c-603b69420476
+
+
 
 
 ---
